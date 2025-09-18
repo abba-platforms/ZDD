@@ -1,4 +1,6 @@
-# ZIMBABWE_ANALYSIS.md
+# ZIMBABWE ANALYSIS
+
+![Zimbabwe Flag](https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg)
 
 ## Introduction
 
