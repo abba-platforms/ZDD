@@ -12,14 +12,17 @@
 
 ## Executive Summary
 
-The Zimbabwe Digital Dollar (ZDD) is a USD-pegged stablecoin created to provide Zimbabwean citizens, businesses, and government institutions with a secure, transparent, and programmable digital currency. ZDD is created by Simon Kapenda, founder of NADD, AOAk, and CillarCoin, with ongoing maintenance and support by Abba Platforms Inc.
+The Zimbabwe Digital Dollar (ZDD) is a USD-pegged stablecoin designed to provide a secure, transparent, and programmable digital currency for Zimbabwean citizens, businesses, and government institutions. ZDD addresses Zimbabwe’s historical monetary instability by offering a fully USD-backed stablecoin that can be used for everyday transactions, payroll, government disbursements, cross-border remittances, and enterprise treasury operations. Its programmable architecture supports smart contract functionality, enabling automated payments and transparent financial workflows.
 
-ZDD offers:
-- 1:1 USD peg
-- Enterprise-grade smart contract architecture
-- Tiered KYC and AML compliance
-- Full auditability via proof-of-reserve oracles
-- Multisig governance for security and resilience
+### Key Features
+
+- 1:1 USD peg with fully verified reserves
+- Tiered KYC/AML compliance for enhanced regulatory adherence
+- Enterprise-grade smart contract architecture with multisig governance and timelocked upgrades
+- Transparent proof-of-reserve oracles and on-chain audit trails
+- Scalable and gas-optimized for high-volume usage
+
+ZDD aims to empower Zimbabwe’s digital economy, reduce reliance on informal financial systems, and provide a globally recognized, stable, and programmable digital currency platform.
 
 ---
 
@@ -48,9 +51,9 @@ ZDD offers:
 
 ## Introduction
 
-Zimbabwe has experienced prolonged monetary instability, hyperinflation, and limited access to digital payments. Citizens and businesses often rely on foreign currencies or informal payment systems. ZDD provides a stable, programmable, and compliant digital currency to restore trust and facilitate digital economic activity.
+The Zimbabwe Digital Dollar (ZDD) is a USD-pegged stablecoin created to provide Zimbabwean citizens, businesses, and government institutions with a secure, transparent, and programmable digital currency. ZDD is created by Simon Kapenda, creator of Namibia Digital Dollar (NADD) - https://github.com/abba-platforms/nadd, Angola Digital Kwanza (AOAk) - https://github.com/abba-platforms/aoak, and CillarCoin (https://cillar.io), with ongoing maintenance and support by Abba Platforms Inc.
 
-Objectives:
+### Objectives:
 - Provide a fully USD-backed digital currency
 - Enable transparent, auditable transactions
 - Support enterprise payrolls, government disbursements, and cross-border remittances
