@@ -2,6 +2,20 @@
 
 ![Zimbabwe Flag](https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg)
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![BSC Testnet](https://img.shields.io/badge/Network-BSC%20Testnet-blue.svg)
+
+---
+
+## 🚀 Deployment Status
+The **Zimbabwe Digital Dollar (ZDD)** has been successfully deployed on the **BSC Testnet**.
+
+- **Proxy (Primary) Contract Address:** [0x93b2eFFC896fC3f3789c493972fe585A2C02B108](https://testnet.bscscan.com/address/0x93b2eFFC896fC3f3789c493972fe585A2C02B108)
+- **Implementation Contract Address:** [0x0197c9e1ed52dd74d9d3978A9dbe98408a59266f](https://testnet.bscscan.com/address/0x0197c9e1ed52dd74d9d3978A9dbe98408a59266f)
+- Verified on BSC Testnet Explorer: ✅
+
+---
+
 ## Overview
 The **Zimbabwe Digital Dollar (ZDD)** is a USD-pegged stablecoin initiative designed to provide a secure, transparent, and programmable form of digital currency for Zimbabwe. The project leverages blockchain technology to create a **Zimbabwean Stablecoin dollar–backed digital currency** that ensures compliance with international standards (ERC-3643) while supporting financial inclusion, cross-border trade, and monetary stability.
 
