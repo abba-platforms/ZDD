@@ -4,6 +4,39 @@ All notable changes to the Zimbabwe Digital Dollar (ZDD) project will be documen
 
 ---
 
+## [v1.1.1] - 2025-09-24
+### README Refinement Update
+
+**README.md**
+- Fixed raw markdown formatting issue before the "Compile Contracts" section to ensure consistent preview rendering.
+- Ensured README stays in pure raw markdown format without switching to preview mid-document.
+- Deep-checked and preserved all existing content without truncation.
+- Maintained original structure and wording while adding formatting improvements.
+
+---
+
+## [v1.1.0] - 2025-09-24
+### Deployment & Documentation Update
+
+**Deployment**
+- Successfully deployed the Zimbabwe Digital Dollar (ZDD) smart contract on the Binance Smart Chain (BSC) Testnet.
+- Added deployed contract addresses:
+  - Proxy Contract: `0x93b2eFFC896fC3f3789c493972fe585A2C02B108`
+  - Implementation Contract: `0x0197c9e1ed52dd74d9d3978A9dbe98408a59266f`
+- Verified implementation contract on BSC Testnet Explorer: [View on BSCScan](https://testnet.bscscan.com/address/0x0197c9e1ed52dd74d9d3978A9dbe98408a59266f#code)
+- Linked proxy to implementation for upgradeable contract architecture.
+
+**Documentation**
+- Updated **README.md** to include deployment details, contract addresses, and BSC Testnet explorer links.
+- Added license badges for improved professionalism and clarity.
+- Preserved all existing README content to maintain documentation continuity.
+
+**Maintenance**
+- Added deployment verification steps to project documentation for transparency.
+- Ensured changelog follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+
+---
+
 ## [v1.0.0] - 2025-09-18
 ### Initial Release
 
@@ -53,5 +86,3 @@ All notable changes to the Zimbabwe Digital Dollar (ZDD) project will be documen
 - Smart contract, governance, and feature updates to be documented here
 
 ---
-
-**Note:** v1.0.0 represents the **first complete documentation and repository setup** for ZDD, including research, draft smart contract, governance, and compliance policies.
